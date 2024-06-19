@@ -1,5 +1,8 @@
-﻿
-public class CodigodeFrutas : MonoBehaviour
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ScriptFrutas : MonoBehaviour
 {
     public GameObject[] arrayObjetos;
     private int idx = 0;
